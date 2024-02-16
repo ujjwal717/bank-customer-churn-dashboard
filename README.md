@@ -52,4 +52,30 @@ F) **Female Customer Count** - Card
 G) **Male Customer Count** - Card
 
 
+**3) Analysis by Age :-**
+
+
+![analysis by age](https://github.com/ujjwal717/bank-customer-churn-dashboard/assets/93403224/a7856435-d5ce-4216-b098-2c03e525adfc)
+
+
+
+Various Slicers :- 
+
+A) Customer Exited ?
+B) Customer has Credit Card ?
+C) Select Country 
+
+
+Various Analysis - Visuals :- 
+
+A) **Customers by Complain and Age Interval** - Stackeed Bar Chart
+B) **Customers by Age** - Line and Stacked Column Chart
+C) **Average Balance of Customers by Age Interval and Gender** - Line Chart
+D) **Customer by Points Earned and Age Interval** - Ribbon Chart
+
+
+
+
+
+
 
