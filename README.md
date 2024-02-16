@@ -18,14 +18,37 @@ C) Select Country
 
 Various Analysis - Visuals :- 
 
-A) Average Salary - Guage
-B) Average Age - Guage
-C) Customers by Credit Score - Treemap
-D) Customers by Complain - Column Chart
-E) Customer by Satisfaction Score - Pie Chart
-F) Inactive Customers - Card
-G) Active Customers - Card
-H) Total Customers Card
+A) **Average Salary** - Guage
+B) **Average Age** - Guage
+C) **Customers by Credit Score** - Treemap
+D) **Customers by Complain** - Column Chart
+E) **Customer by Satisfaction Score** - Pie Chart
+F) **Inactive Customers** - Card
+G) **Active Customers** - Card
+H) **Total Customers** - Card
+
+
+**2) Analysis by Gender :-**
+
+![analysis by gender](https://github.com/ujjwal717/bank-customer-churn-dashboard/assets/93403224/3f00ccc5-a486-4d3d-879a-4f2dab600ba1)
+
+
+
+Various Slicers :- 
+
+A) Customer Exited ?
+B) Customer has Credit Card ?
+C) Select Country 
+
+Various Analysis - Visuals :- 
+
+A) **Customers by Card Type and Gender** - Side by Side column chart
+B) **Customers by Purchased Products and Gender** - Line Chart
+C) **Customers by Tenure in Bank and Gender** - Stacker bar chart
+D) **Average Female Salary** - Guage
+E) **Average Male Salary** - Guage
+F) **Female Customer Count** - Card
+G) **Male Customer Count** - Card
 
 
 
