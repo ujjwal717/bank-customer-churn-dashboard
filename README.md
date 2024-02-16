@@ -16,6 +16,11 @@ A) Customer Exited ?
 B) Customer has Credit Card ?
 C) Select Country 
 
+Bookmark Navigators :- 
+
+A) Analysis by Gender
+B) Analysis by Age 
+
 Various Analysis - Visuals :- 
 
 A) **Average Salary** - Guage
