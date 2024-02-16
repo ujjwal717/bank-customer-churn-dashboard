@@ -75,7 +75,7 @@ C) Select Country
 
 Various Analysis - Visuals :- 
 
-A) **Customers by Complain and Age Interval** - Stackeed Bar Chart
+A) **Customers by Complain and Age Interval** - Stacked Bar Chart
 B) **Customers by Age** - Line and Stacked Column Chart
 C) **Average Balance of Customers by Age Interval and Gender** - Line Chart
 D) **Customer by Points Earned and Age Interval** - Ribbon Chart
@@ -116,6 +116,17 @@ Some more analysis in brief :-
 2) Average Age of exited customers is 44.8
 3) Out of 2038 exited customers, 1303 were Inactive
 4) Out of 2038 exited customers, 735 were Active
+
+
+
+
+**2) Insight from Gender Report of the Dashboard :-**
+
+**A) Customers by Card Type and Gender :-**
+
+Insight :- It can be seen that out of exited customers, for each and every card type, female customers have exited the bank more than the male customers. On the contrary if we select **"No"** in the customer exited slicer, we can see that male customers are more for having all the different kind of cards so, male customers exit less than female customers for every card type.
+
+Possible Reason :- It is really difficult to pin-point a specific reason for that.
 
 
 
