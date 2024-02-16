@@ -30,7 +30,8 @@ H) **Total Customers** - Card
 
 **2) Analysis by Gender :-**
 
-![analysis by gender](https://github.com/ujjwal717/bank-customer-churn-dashboard/assets/93403224/3f00ccc5-a486-4d3d-879a-4f2dab600ba1)
+![analysis by gender 2](https://github.com/ujjwal717/bank-customer-churn-dashboard/assets/93403224/00c3728f-d2c3-4bef-b693-e4ad45241d91)
+
 
 
 
