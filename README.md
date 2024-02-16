@@ -81,6 +81,46 @@ C) **Average Balance of Customers by Age Interval and Gender** - Line Chart
 D) **Customer by Points Earned and Age Interval** - Ribbon Chart
 
 
+**Below are the images and various insight that we found from the analysis and the possibel reason for it**
+
+**1) Insight from the Main Report of the Dashboard :-**
+
+![Customer Exited from main report page](https://github.com/ujjwal717/bank-customer-churn-dashboard/assets/93403224/b06ea9cc-ca81-49d3-8250-80327364fff1)
+
+
+**A) Customers by Complain :-** Complains are the requests/reports/problems that customers files in the bank for any inconvenience
+
+Insight :- We can see that out of 2038 customers that exited the bank, 2034 customers had complains.
+
+Possible Reasons :- They might have exited the bank because their problem would not have been addressed properly.
+
+
+
+**B) Customer by Satisfaction Score :-** Satisfaction Score is the score provided by the customers after solution of hus/her problems.
+
+Insight :- It can be seen that around 40% of the customers that exited gave bad (less than 3 out of 5) satisfaction score.
+
+Possible Reason :- They might not have been satisfied from the resolution that they got or the customer executive could have been rude.
+
+
+**C) Customers by Credit Score :-**
+
+Insight :- Maximum customers that exited the bank were having bad credit score. Many of them also hasd good credit score and least were having excellent credit score.
+
+Possible Reason :- The reason that customers having bad credit score exited the bank might be from the fact that they might have applied for any kind of load and got rejected because of bad credit score. 
+
+
+Some more analysis in brief :- 
+
+1) Average Salary of exited customers is 101.5k USD.
+2) Average Age of exited customers is 44.8
+3) Out of 2038 exited customers, 1303 were Inactive
+4) Out of 2038 exited customers, 735 were Active
+
+
+
+
+
 
 
 
