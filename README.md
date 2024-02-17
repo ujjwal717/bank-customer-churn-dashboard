@@ -122,6 +122,9 @@ Some more analysis in brief :-
 
 **2) Insight from Gender Report of the Dashboard :-**
 
+![Customer exited by gender](https://github.com/ujjwal717/bank-customer-churn-dashboard/assets/93403224/33b34a56-5d7b-4c75-b7a1-ae45f01a0486)
+
+
 **A) Customers by Card Type and Gender :-**
 
 Insight :- It can be seen that out of exited customers, for each and every card type, female customers have exited the bank more than the male customers. On the contrary if we select **"No"** in the customer exited slicer, we can see that male customers are more for having all the different kind of cards so, male customers exit less than female customers for every card type.
