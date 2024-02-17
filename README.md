@@ -138,5 +138,14 @@ Possible reason :- Most of the customers has excellent points interval which mea
 
 
 
+**Suggestion and the Points that Bank can implement to improve Customer Retention :-**
+
+1) Try to improve customer satisfaction rate as around 40 percent of the customer that exited gave poor sastisfaction rate.
+2) Target female customer more to understand the problems that they are facing as female customers have exited more.
+3) Try to have a deeper understanding about reason for the customers who are around 45-60 years old to exit as they are exiting more.
+4) Try to give better offers to customers who have good and excellent points earned so that they increase there usage more and also don't exit the bank.
+
+
+
 
 
