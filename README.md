@@ -129,7 +129,26 @@ Some more analysis in brief :-
 
 Insight :- It can be seen that out of exited customers, for each and every card type, female customers have exited the bank more than the male customers. On the contrary if we select **"No"** in the customer exited slicer, we can see that male customers are more for having all the different kind of cards so, male customers exit less than female customers for every card type.
 
-Possible Reason :- It is really difficult to pin-point a specific reason for that.
+Possible Reason :- We wre getting this insight as overall, female customers left more than male customers. Other than that, if we focus on specifc card type, diamond card holders are the ones who exited the most for both the genders.
+
+**B) Customers by Product Purchased and Gender :-**
+
+Insight :- It can be seen that most of the customers that exited were having One product purchased from the bank. Here Product is same as services such as home loan, car loan, credit card, insurance, FD, RD and more.
+
+Possible Reason :- The reason for this can be, it's easier for customers to change bank if he/she has less number of products purchased as it's easier to settle the outstanding amount and other required documentation, while customers having large number of products purchased from the bank need to do a lot of documentation and settlement before closing their account which is tedious for customers.
+
+**C) Customer by Tenure in Bank and Gender :-**
+
+Insight :- Here, It can be seen that really old customers (in terms of their bank account tenure) are leaving the bank which is not a good sign at all as losing trusted and old customers is not good for any company at all. Also, for all the tenure intervals, female leave the bank more than male customers.
+
+Possible Reason :- The possible reason for it can be that the customers might be having some serious problem from the bank as customer who has account in a bank for around 7-10 years will not leave/exit the bank for a really small problem.
+
+Some more analysis in brief :- 
+
+1) Count of Exited Female Customers is 1139
+2) Count of Exited Male Customers is 899
+3) Average Salary of Female Customers is 102.95k USD
+4) Average Salary of Male Customers is 99.96k USD
 
 
 
