@@ -153,7 +153,30 @@ Some more analysis in brief :-
 
 
 
+**3) Insight from Age Report of the Dashboard :-**
 
+![analysis by age exited](https://github.com/ujjwal717/bank-customer-churn-dashboard/assets/93403224/a633dd29-6702-4d4a-a0fc-fc1e65b23efe)
+
+
+
+**A) Customers by Complain and Age Interval :-**
+
+Insight :- It can be seen that Old Customers (45-60 Years old) have the most number of complains followed by Adult (35-44 Years Old).
+
+Possible Reason :- In the previous analysis, we got insight that around 2034 customers had complaints and exited the bank. This specific analysis tells us that out of those 2034 customers, which age interval had most number of customers that exited, so that the bank can focus on those customers.
+
+
+**B) Customers by Age Interval :-**
+
+Insight :- We can see once again that the age interval of old customers (45-60 years old) was where the most customers exited the bank.
+
+Possible Reason :- This insight might be from the fact that customers might not be happy from various reasons such as :- not getting problem resolution, not getting loans at better interest rates or other bank giving better facilities/offers.
+
+**C) Customers by Points Earned and Age Interval :-** Points earned are the points that bank provides to the customers on using the bank services.
+
+Insight :- It can be seen that most of the customers of various age interval were having excellent points interval (more than 666 points). It is a bad news for the bank as really loyal and frequent service users are exiting the bank.
+
+Possible reason :- Most of the customers has excellent points interval which means they were really active and one of the possible reason for exiting could have been the fact that they got better offers from another bank as they are frequent users of banking services and might have considered benefits.
 
 
 
