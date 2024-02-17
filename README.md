@@ -12,27 +12,7 @@ Different Analysis done according to different reports are given below :-
 ![main report page of customer churn dashboard](https://github.com/ujjwal717/bank-customer-churn-dashboard/assets/93403224/020aac0b-65e1-4936-89fe-1e401d2425b9)
 
 
-Various Slicers :- 
 
-A) Customer Exited ?
-B) Customer has Credit Card ?
-C) Select Country 
-
-Bookmark Navigators :- 
-
-A) Analysis by Gender
-B) Analysis by Age 
-
-Various Analysis - Visuals :- 
-
-A) **Average Salary** - Guage
-B) **Average Age** - Guage
-C) **Customers by Credit Score** - Treemap
-D) **Customers by Complain** - Column Chart
-E) **Customer by Satisfaction Score** - Pie Chart
-F) **Inactive Customers** - Card
-G) **Active Customers** - Card
-H) **Total Customers** - Card
 
 
 **2) Analysis by Gender :-**
@@ -42,21 +22,8 @@ H) **Total Customers** - Card
 
 
 
-Various Slicers :- 
 
-A) Customer Exited ?
-B) Customer has Credit Card ?
-C) Select Country 
 
-Various Analysis - Visuals :- 
-
-A) **Customers by Card Type and Gender** - Side by Side column chart
-B) **Customers by Purchased Products and Gender** - Line Chart
-C) **Customers by Tenure in Bank and Gender** - Stacker bar chart
-D) **Average Female Salary** - Guage
-E) **Average Male Salary** - Guage
-F) **Female Customer Count** - Card
-G) **Male Customer Count** - Card
 
 
 **3) Analysis by Age :-**
@@ -66,22 +33,13 @@ G) **Male Customer Count** - Card
 
 
 
-Various Slicers :- 
-
-A) Customer Exited ?
-B) Customer has Credit Card ?
-C) Select Country 
 
 
-Various Analysis - Visuals :- 
-
-A) **Customers by Complain and Age Interval** - Stacked Bar Chart
-B) **Customers by Age** - Line and Stacked Column Chart
-C) **Average Balance of Customers by Age Interval and Gender** - Line Chart
-D) **Customer by Points Earned and Age Interval** - Ribbon Chart
 
 
 **Below are the images and various insight that we found from the analysis and the possibel reason for it**
+
+
 
 **1) Insight from the Main Report of the Dashboard :-**
 
